@@ -2,6 +2,9 @@ hello, world.
 이대현
 thankyou
 i love you
+
+DAY2 - Hello
+
 gg
 
 
